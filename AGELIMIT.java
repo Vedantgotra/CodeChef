@@ -23,5 +23,6 @@ class Codechef
 		        System.out.println("NO");
 		    }
 		}
+
 	}
 }
